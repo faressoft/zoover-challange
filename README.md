@@ -2,7 +2,7 @@
 
 ## Test in Postman
 
-* DocsURL: [https://documenter.getpostman.com/view/104940/zoover/RW1UNiYx](https://documenter.getpostman.com/view/104940/zoover/RW1UNiYx)
+* DocsURL: [https://documenter.getpostman.com/view/104940/zoover/RW1VqMq5](https://documenter.getpostman.com/view/104940/zoover/RW1VqMq5)
 * CollectionURL: [https://www.getpostman.com/collections/91141ec299f5b5979637](https://www.getpostman.com/collections/91141ec299f5b5979637)
 
 Open Postman. Click on import (CMD+O). Choose "Import From Link". Enter the collection url. Have fun !
