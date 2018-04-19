@@ -114,7 +114,8 @@
           "required": false,
           "type": "string",
           "is": {
-            "inArray": [["FAMILY", "FRIENDS", "COUPLE", "SINGLE", "OTHER"]]
+            "inArray": [["GROUP", "COUPLE", "FAMILY_WITH_YOUNG_CHILDREN", "BUSINESS",
+                         "FAMILY", "FAMILY_WITH_OLDER_CHILDREN", "FRIENDS", "SINGLE", "OTHER"]]
           },
           "default": null
         },
